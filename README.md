@@ -1,56 +1,32 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geobivida - WebGIS de Biodiversidade</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header, footer {
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            padding: 1rem;
-        }
-        main {
-            padding: 2rem;
-            text-align: center;
-        }
-        .mapa {
-            margin-top: 2rem;
-            width: 100%;
-            height: 500px;
-            background-color: #eee;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
+# Geobivida
 
-<header>
-    <h1>Geobivida</h1>
-    <p>WebGIS de Biodiversidade</p>
-</header>
+**Geobivida** é um projeto de WebGIS dedicado à divulgação de informações sobre a biodiversidade.
 
-<main>
-    <h2>Sobre o Projeto</h2>
-    <p>Este projeto disponibiliza mapas interativos sobre a biodiversidade.</p>
+## Sobre
 
-    <div class="mapa">
-        <p>Aqui ficará o mapa interativo</p>
-    </div>
-</main>
+O objetivo do Geobivida é oferecer um mapa interativo que permita visualizar dados sobre espécies, habitats e áreas verdes em diferentes localidades.  
+O projeto busca apoiar pesquisas científicas, consultorias ambientais e órgãos públicos com dados relacionados à biodiversidade.
 
-<footer>
-    <p>© 2025 Geobivida. Todos os direitos reservados.</p>
-</footer>
+## Funcionalidades (futuras)
 
-</body>
-</html>
+- Mapa interativo com camadas de dados sobre biodiversidade.
+- Acesso aberto e gratuito à informação.
+
+## Acesso ao site
+
+O site oficial do projeto está disponível em:  
+[https://seu-usuario.github.io/geobivida/](https://seu-usuario.github.io/geobivida/)  
+_(O link será atualizado após a publicação no GitHub Pages.)_
+
+## Como contribuir
+
+- Sugestões e melhorias são bem-vindas!
+- Você pode abrir uma [issue](https://github.com/seu-usuario/geobivida/issues) ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+Desenvolvido com carinho por [Mateus Lopes da Silva Tosetto].
