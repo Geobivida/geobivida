@@ -15,7 +15,7 @@ O projeto busca apoiar pesquisas científicas, consultorias ambientais e órgão
 ## Acesso ao site
 
 O site oficial do projeto está disponível em:  
-[https://seu-usuario.github.io/geobivida/](https://seu-usuario.github.io/geobivida/)  
+[https://geobivida.github.io/geobivida/](https://geobivida.github.io/geobivida/)  
 _(O link será atualizado após a publicação no GitHub Pages.)_
 
 ## Como contribuir
