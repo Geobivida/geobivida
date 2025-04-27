@@ -1,16 +1,56 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geobivida - WebGIS de Biodiversidade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+        .mapa {
+            margin-top: 2rem;
+            width: 100%;
+            height: 500px;
+            background-color: #eee;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
 
-<!--
-**Geobivida/geobivida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+    <h1>Geobivida</h1>
+    <p>WebGIS de Biodiversidade</p>
+</header>
 
-Here are some ideas to get you started:
+<main>
+    <h2>Sobre o Projeto</h2>
+    <p>Este projeto disponibiliza mapas interativos sobre a biodiversidade.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div class="mapa">
+        <p>Aqui ficará o mapa interativo</p>
+    </div>
+</main>
+
+<footer>
+    <p>© 2025 Geobivida. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
